@@ -1,5 +1,5 @@
 def find_element_index(array, value_to_find)
-  scale=(["0","3","0","5"])
+  scale=(["2","3","0","5"])
   p scale.index("0")
 end
 
